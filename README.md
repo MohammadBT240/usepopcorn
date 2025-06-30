@@ -87,6 +87,12 @@ usepopcorn/
 - [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
 - [OMDb API](http://www.omdbapi.com/)
 
+## 📬 Contact & Social
+
+- Linkedin: [@Mohammad-Bashir](https://www.linkedin.com/in/mohammad-bashir-7545a3212/)
+- GitHub: [@MohammadBT240](https://github.com/MohammadBT240)
+- Email: bashtukus@gmail.com
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
